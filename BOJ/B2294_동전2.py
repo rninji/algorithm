@@ -1,5 +1,3 @@
-import sys
-
 # 입력
 n, k = map(int, input().split())
 value = []
